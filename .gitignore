@@ -29,5 +29,5 @@ book/
 # zotero file
 .bib
 .csv
-.txt
+doi_list.txt
 .log
