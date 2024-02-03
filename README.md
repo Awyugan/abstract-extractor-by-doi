@@ -15,6 +15,7 @@ pip3安装：`pip3 install -r requirements.txt
 
 选中需要获取的文献，导出csv、bib两个文件到py文件同目录
 从csv中复制doi号，注意不要标题。如图所示,一行一个单独的DOI号，放进txt文件中，命名为doi_list.txt
+
 ![XQ2LtI.png](https://imgtu.com/i/XQ2LtI)
 
 ### 2. 根据DOI号文件获取摘要
@@ -32,5 +33,6 @@ pip3安装：`pip3 install -r requirements.txt
 ### 4. 获取新的bib文件导入zotero
 
 将需要补充摘要的Zotero条目导出为BibTex格式，命名为old.bib,执行[abstract2bib.py](abstract2bib.py)，选择需要变更的bib文件得到{name}-new.bib
+
 ![XQRRbQ.png](https://imgtu.com/i/XQRRbQ)
 
