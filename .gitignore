@@ -27,7 +27,9 @@ book/
 *.pdf
 
 # zotero file
-.bib
-.csv
+*.bib
+*.csv
 doi_list.txt
-.log
+*.log
+abstract_exception.txt
+abstract_not_200.txt
