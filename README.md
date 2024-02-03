@@ -36,3 +36,6 @@ pip3安装：`pip3 install -r requirements.txt
 
 <a href="https://imgse.com/i/XQRRbQ"><img src="https://s11.ax1x.com/2022/05/29/XQRRbQ.png" alt="XQRRbQ.png" border="0" /></a>
 
+## 致谢
+
+感谢信息分析学员國豪的贡献，我在他的代码基础上修改现在可用的版本并开源。
